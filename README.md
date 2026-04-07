@@ -1,0 +1,2 @@
+# secure-document-ingestion-and-governance-platform
+A cloud-native, document ingestion and governance platform built on Google Cloud Platform. Designed for local government, it provides a centralised, reusable service for safely accepting, scanning, classifying, and storing documents uploaded by citizens or internal systems — with a full security response workflow for any file that fails inspection.
