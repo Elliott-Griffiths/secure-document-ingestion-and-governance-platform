@@ -8,7 +8,7 @@ Built with two upload modes: **synchronous** (1–2 files, direct response) and 
 
 ## Architecture Overview
 
-![Architecture Diagram](./architecture.drawio.png)
+![Architecture Diagram](./docs/architecture/diagrams/architecture.drawio.png)
 
 ---
 
